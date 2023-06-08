@@ -1,4 +1,4 @@
-from app.models.model import Model
+from models.model import Model
 
 model = Model("Foo")
 

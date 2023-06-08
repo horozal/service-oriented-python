@@ -1,5 +1,5 @@
-from app.services.service import Service
-from app.models.model import Model
+from services.service import Service
+from models.model import Model
 
 def main():
     service = Service()
